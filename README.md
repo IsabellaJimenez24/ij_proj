@@ -1,7 +1,7 @@
-# ANALYZING TEXT ON AGRICULTURAL WASTE
+# USING PYTHON TO ANALYZE TEXT ON AGRICULTURAL WASTE
 
-Summary: 
+# Abstract: 
 
-Conclusions:
 
-#Enter image#
+
+
