@@ -1,7 +1,7 @@
-#ij_proj
+ANALYZING TEXT ON AGRICULTURAL WASTE
 
-#Summary: 
+Summary: 
 
-#Conclusions:
+Conclusions:
 
-#Enter images
+#Enter image#
