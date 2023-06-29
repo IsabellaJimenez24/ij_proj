@@ -1,0 +1,507 @@
+Transformation of Agro-Waste into Value-Added Bioproducts and Bioactive Compounds: Micro/Nano Formulations and Application in the Agri-Food-Pharma Sector\
+Saroj Bala 1,\'86 , Diksha Garg 1,\'86 , Kandi Sridhar 2 , Baskaran Stephen Inbaraj 3 , Ranjan Singh 4, Srinivasulu Kamma 2, Manikant Tripathi 5,* and Minaxi Sharma 6,*\
+1 2\
+3 4 5 6\
+* Correspondence: manikant.microbio@gmail.com (M.T.); minaxi86sharma@gmail.com (M.S.) \'86 These authors equally contributed to this work.\
+Abstract: The agricultural sector generates a significant amount of waste, the majority of which is not productively used and is becoming a danger to both world health and the environment. Because of the promising relevance of agro-residues in the agri-food-pharma sectors, various bioproducts and novel biologically active molecules are produced through valorization techniques. Valorization of agro-wastes involves physical, chemical, and biological, including green, pretreatment methods. Bioactives and bioproducts development from agro-wastes has been widely researched in recent years. Nanocapsules are now used to increase the efficacy of bioactive molecules in food applications. This review addresses various agri-waste valorization methods, value-added bioproducts, the recovery of bioactive compounds, and their uses. Moreover, it also covers the present status of bioactive micro- and nanoencapsulation strategies and their applications.\
+Keywords: agro-waste; valorization; value-added bioproducts; bioactive compounds; micro/nano encapsulation; agri-food-pharma applications\
+1. Introduction\
+The disposal of agricultural waste is one of the major environmental issues, which poses adverse effects on ecosystems due to the careless dumping of agricultural waste into the environment. Most reports say that untreated and underutilized agro-industrial waste is disposed of by burning, dumping, or placing it in a landfill [1,2]. Untreated garbage contributes to several greenhouse gas emissions, which in turn exacerbate climate change in a variety of ways. In addition to negative effects on the climate, this also results in the release of additional, undesirable gaseous byproducts [3]. Therefore, significant interventions are required for the sustainable use of agro-waste. This can take the form of the development of sustainable energy technologies and the creation of value-added bioproducts. A larger strain on the environment has resulted from increased global output of wastes, with detrimental effects on soil, air, and water resources [4], which in turn threaten the health of populations and the long-term viability of ecosystems. About 21\'9637% of greenhouse gases are produced by the agricultural sector [5]. This new reality has prompted a model of sustainable development in recent years that calls for substantial shifts in conventional agricultural production methods and waste utilization.\
+High concentrations of complex carbohydrates, proteins, fibers, polyphenolic compo- nents, bioactive compounds, etc., are found in agro-wastes [6]. Despite the fact that organic\
+Department of Microbiology, Punjab Agricultural University, Ludhiana 141004, India\
+Department of Food Technology, Koneru Lakshmaiah Education Foundation Deemed to be University, Vaddeswaram 522502, India\
+Department of Food Science, Fu Jen Catholic University, New Taipei City 242062, Taiwan\
+Department of Microbiology, Dr. Rammanohar Lohia Avadh University, Ayodhya 224001, India Biotechnology Program, Dr. Rammanohar Lohia Avadh University, Ayodhya 224001, India\
+Haute Ecole Provinciale de Hainaut-Condorcet, 7800 Ath, Belgium\
+  Citation: Bala, S.; Garg, D.; Sridhar, K.; Inbaraj, B.S.; Singh, R.; Kamma, S.; Tripathi, M.; Sharma, M. Transformation of Agro-Waste into Value-Added Bioproducts and Bioactive Compounds: Micro/Nano Formulations and Application in the Agri-Food-Pharma Sector. Bioengineering 2023, 10, 152. https://doi.org/10.3390/ bioengineering10020152\
+Academic Editor: Giovanni Esposito\
+Received: 27 December 2022 Revised: 19 January 2023 Accepted: 20 January 2023 Published: 23 January 2023\
+Copyright: \'a9 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).\
+   Bioengineering 2023, 10, 152. https://doi.org/10.3390/bioengineering10020152 https://www.mdpi.com/journal/bioengineering\
+Bioengineering 2023, 10, 152\
+2 of 17\
+ compound wastes pose a threat to the environment, they could be used as a raw material in a wide range of agricultural, food, and pharmaceutical goods [7]. The agro-residues are not considered a waste because of their high nutrient content; rather, they are used as a source material for new products. Effective pretreatment technologies for agro-waste biomass, its biochemical characteristics, and advanced conversion processes can improve the cost-effectiveness of conversion processes for bioproducts development [8]. Microbial biotechnology and nanotechnology play a pivotal role in the bioconversion of agricultural waste into enzymes and other bioactive compounds in the pharmaceutical sector, vermi- compost, organic fertilizers, and biofuels in the agriculture sector, and nutraceuticals and food products [9\'9613]. Due to its many potential applications, nanotechnology is increas- ingly being explored in the food and healthcare industries. Due to the aforementioned enhancements in bioavailability and levels of bioactive compounds, the capability for guided administration of bioactive compounds to specific tissues or organs is also boosted. Nanostructured materials have the potential to revolutionize the food business because of their unique features and large surface area. While the potential benefits of nanotechnology to society as a whole have been widely recognized, recently, the field of food science has begun to explore its applications [14]. Using a matrix or inert material, nanoencapsulation is a method for keeping coated substances (food or flavor molecules/ingredients) that are in a liquid, solid, or gaseous form. Stabilizing bioactive compounds via nanoencapsulation allows for more precise control over their release at physiologically active locations [15]. Therefore, this review addresses the valorization of agro-waste into value-added bioprod- ucts, bioactive compounds, and their applications in the agri-energy-pharma sector, along with the present status of bioactive micro/nanoencapsulation strategies and their applica- tions, with the ultimate goal of reducing waste for a sustainable and green environment. In this review, we retrieved 93 articles on agriculture waste, valorization, pretreatment meth- ods, value-added products, and micro- and nanoencapsulation from the Web of ScienceTM Core Collection.\
+2. Availability of Agro-Waste\
+There are various sorts of agro-waste in the environment, depending on their origin and availability [16]. Agro-waste consists primarily of cellulose, hemicellulose, and lignin. Due to their structural complexity, lignocelluloses are difficult to break [17]. Various types of wastes, including crop residue, aquaculture waste, and other wastes of agricultural origin, have been reported [18,19]. The two largest available categories of waste are crop residue and agro-industrial waste, both of which are produced in huge quantities every day in the agricultural and food processing industries [20]. On the other hand, the absence of appropriate management techniques for these wastes, which may be traced back to a lack of or limited access to adequate information, has steadily become a significant obstacle that cannot be minimized due to its magnitude.\
+Because the manure from cattle is a major source of noxious gases, harmful mi- croorganisms, and odor, there is cause for concern regarding both public health and the environment [21]. Unconsumed feed and undigested substances, both of which are ex- pelled from fish as waste in the form of feces, are the two main contributors to aquaculture solid waste [22]. The possibility for contamination of both surface water and groundwater exists if there is an excessive application of a mixture, an incorrect disposal of agro-residue, undiluted chemicals, or even pesticide containers. Utilizing farm waste in a managed manner can improve irrigation and erosion management [23]. The distinction between agricultural residue and other solid fuels, such as charcoal, wood, and charcoal briquettes, is based on their availability and distinguishable qualities.\
+3. Valorization Technologies for Agro-Waste\
+Agro-waste cannot be utilized without a proper pretreatment since modified agro- waste is more effective and useful [24]. Agricultural waste undergoes multiple treatment procedures prior to being utilized. Residues of agro-waste are made of lignocellulosic mate-\
+\
+Bioengineering 2023, 10, 152\
+3 of 17\
+ Application\
+Agriculture sector\
+Biofuels and manure Enzymatic digestibility Ethanol production Bio-oil and biochar formation Food sector\
+Bioactive compounds Nutraceuticals\
+Ethanol and enzyme production\
+Pharma sectorSugars\
+(glucose, xylose, mannose, and galactose) and organic acids (formic, acetic acid) production Agriculture sector Enzymes production, organic acids, and hydrolysis of agro-waste to increase glucose yield Biorefinery\
+Biomass saccharification, bioethanol and\
+biogas production\
+Food sector Extraction of phenolic compounds and\
+acids productions\
+Pretreatment Methods\
+Pros\
+From biomass, a fine powder with a crystallinity of up to 0.2 mm\
+is produced.\
+Easing the process of breaking down a variety of lignocellulosic materials.\
+Minimal need for energy.\
+Easily functional, and with efficiency in handling large agro-waste with fewer inhibitors\
+being formed.\
+The highest possible rate of cellulose\
+sugar conversion. The surface area was increased, crystallinity was reduced, hemicelluloses were hydrolyzed, and the structure of lignin was altered.\
+Change the structure of lignin, and hydrolyze hemicellulose to xylose and other sugars.\
+Pretreatment under milder conditions. Removing lignin and hemicelluloses raises the available surface area. Decreases lignin content. Does not indicate the production of hazardous substances.\
+Hydrolyzes lignin and hemicellulose; helpful for lignin extraction.\
+Effectively eliminated lignin and low formation inhibitors.\
+Cons\
+Lack of long-term viability in technique calls for a lot of energy.\
+Collisions between particles during prolonged sonication could result in an antagonistic effect. Incomplete lignin- carbohydrate matrix cleavage, xylan fraction destruction, creation of hydrolysis, and\
+fermentation inhibitors.\
+This causes both a rise in temperature and an increase in the amount of electricity used.\
+High-cost technique.\
+Expensive method.\
+Corrosion of expensive equipment and the production of harmful byproducts are additional costs.\
+High alkalinity concentrations and lengthy residence durations are necessary.\
+Method that is both expensive and demanding of a substantial quantity of ozone.\
+Due to their high volatility, costly solvents are unsuitable for industrial use. Expensive because of the utilization of oxygen and acid catalyst.\
+Refs.\
+rials that require chemical, physical, and biological treatments to break the complexity [25]. The transformation of agro-waste\'92s complex molecular structures into simpler monomers is typically regarded as a necessary pretreatment step [26]. Table 1 details the pros and cons of various types of pretreatment procedures. For better understanding of agro-waste utilization, the graphical mapping of the keyword co-occurrence and co-authorship was constructed by the noncommercial visualization of similarities (VOS) viewer VOS viewer 1.6.18 (https://www.vosviewer.com/, accessed on 20 November 2022). The volume of published work is a strong predictor of future research directions. A keyword list can be used to categorize various fields of study. Figure 1 depicts network visualization, density visualization, and overlay visualization maps of the most-cited keywords from 93 articles. The majority of current research is focused on the development of new value-added prod- ucts, and the valorization techniques suggest that agricultural waste is among one of the most explored domains that have applications in the agri-food-pharma sector.\
+Table 1. Application based pretreatment methods and related pros as well as cons.\
+  Physical\
+Grinding\
+Ultrasonic\
+Steaming explosion\
+Microwave\
+Pyrolysis\
+Irradiations\
+Acid hydrolysis (HCl, CH3COOH, H2SO4)\
+Alkaline hydrolysis (KOH, NaOH, NH4OH, Mg(OH)2, Ca(OH)2\
+Ozonolysis\
+Organosolv\
+Wet oxidation\
+[27\'9632]\
+Chemical\
+[2,29,33\'9635]\
+ \
+ ioengineering 2023, 10, 152 Bioengineering 2023, 10, 152\
+3 of 17\
+4 of 17\
+ 3. Valorization Technologies for Agro\uc0\u8208 Waste\
+Table 1. Cont.\
+Agro\uc0\u8208 waste cannot be utilized without a proper pretreatment since modified agro\u8208 \
+ Pretreatment Methods Pros Cons Refs.\
+Application\
+waste is more effective and useful [24]. Agricultural waste undergoes multiple treatment Moderate circumstances\
+Agriculture sector\
+procedures prior to being utilized. Residues of agro\uc0\u8208 waste are made of lignocellulosic ma\u8208  Enzyme are present, and minimal Low hydrolysis rate and a\
+Animal manure\
+terials that require chemical, pehffoyrtsiscnaelc,esasnardy. biologicallatrgeastemrilents to break the complexity and biofertilizers\
+Economical and requiring space requirement.\
+Biorefinery and animal feed[25]. The transformation of agro\uc0\u8208 waste\'92s complex molecular structures into simpler mon\u8208  Pharma sector Bacteria only mild [13,23,36,37]\
+Biological Antibiotics production omers is typically regarded asreacntioencceosnsdaitrioynsp. retreatment step [26]. Table 1 details the pros Inexpensive, destroys\
+Food sector\
+and cons of various types of pretreatment procedures. For better understanding of agro\uc0\u8208  Fungi lignin and hemicelluloses,\
+Single cell protein\
+waste utilization, the graphical mapping of the keyword co\uc0\u8208 occurrence and co\u8208 authorship minimal energy needs.\
+Effective at dissolving Possible toxicity,\
+was constructed by the noncommercial visualization of similarities (VOS) viewer VOS copious amounts of prohibitively expensive\
+viewer 1.6.18 (https://www.vosviewer.com/, accessed on 20 November 2022). The volume Ionic liquids cellulose and recovering method, and a lack of\
+usable cellulose practicality for\
+Food and pharma sectors of published work is a strong predictor of future research directions. A keyword list can from lignin. mass production.\
+Antibiotic production\
+Green solvents Conditions are modest but\
+be used to caDteegpoeruitzeceticvarious fields of study. Figure 1 depicts network visualization, den\uc0\u8208  Antioxidant properties solvents environmentally friendly Creates undesirable [38\'9640]\
+Antibacterial and\
+sity visualization, and overlay visaundalsiazfea. tion mapcsonotafmthineanmts aonsdth\uc0\u8208 cigihterd keywords from 93 ar\u8208  anticancer properties\
+Low-cost, readily viscosity on occasion.\
+ticles. The majority of current research is focused on the development of new value\uc0\u8208 added Natural deep available, highly\
+products, aneudtetchticesovlvaelnotrs ization tmeocdhifinaibqleu, aensd suggest that agricultural waste is among one of less hazardous.\
+the most explored domains that have applications in the agri\uc0\u8208 food\u8208 pharma sector.\
+   Figure 1. Cont.\
+\
+ Bioengineering 2023, 10, 152 Bioengineering 2023, 10, 152\
+5 of 17\
+4 of 17\
+   Figure 1. Most frequently used keywords over time, as well as a clustering of the keywords\'92 citation Figure 1. Most frequently used keywords over time, as well as a clustering of the keywords\'92 citation\
+networks. Network visualization (A), overlay visualization (B), and density visualization (C). networks. Network visualization (A), overlay visualization (B), and density visualization (C).\
+\
+   Bioengineering 2023, 10, 152 Bioengineering 2023, 10, 152\
+6 of 17\
+6 of 17\
+ Natural deep eutec\uc0\u8208  tic solvents\
+Low\uc0\u8208 cost, readily available,\
+highly modifiable, and less\
+hazardous.\
+Wheat straw biodegradation kinetics are increased by mechanical, thermal, and sonic pretreatments but at the expense of high energy consumption [41]. This method decreases\
+Wheat straw biodegradation kinetics are increased by mechanical, thermal, and sonic\
+the size of biomass and increases its accessible surface area, which improves hydrolysis\
+pretreatments but at the expense of high energy consumption [41]. This method decreases\
+as a result of enhanced heat and mass transmission [42]. The internal linkages of lignin the size of biomass and increases its accessible surface area, which improves hydrolysis\
+and hemicellulose are broken due to chemical pretreatment (e.g., the use of acids, alkalis,\
+as a result of enhanced heat and mass transmission [42]. The internal linkages of lignin\
+ozonolysis, organosolv, and wet oxidation) [43]. Pretreatment decreased cassava bagasse and hemicellulose are broken due to chemical pretreatment (e.g., the use of acids, alkalis,\
+weight and boosted cellulose yield significantly compared to unpretreated bagasse. The\
+ozonolysis, organosolv, and wet oxidation) [43]. Pretreatment decreased cassava bagasse mweaixgihmtuamndcbeollousltoesdecyeileluldlowseasyiaecldhiseivgendifiwcaitnhtltyhceoHmpSaOredptroeturenaptrmeterneatt[e4d4]b.aTghaessbei.oTlohgeical\
+24 pmraoxciemssum(uscienllgulmosiecryoibeleds)winasclaucdheiesvheyddwroitlhysthiseaHn2dSOsa4cpcrheatreifiatcmateinotn[,4w4]h.iTcheabrieolmogeidcaialted\
+bpyroecxesose(nuzsyinmgems.icFreorbmese)nintactluiodnesuhsiyndgrowlyhsoislea-ncdelslascycshtaermifiscaotriosnim, wphlyichenazreymaedtiicatdeidgebsytion\
+oexfoaesnozlyidmoesr. lFiqeurmidensutabtisotrnautesinsgrewqhuoirle\uc0\u8208 dc.eTllhsiyssptermocseodrusriemupsleyselnezsys menaetircgdy,igisesetcion-froifenadly,\
+asonldidporroldiquuciedssnuobsitnrhatiebitsoresq[u4i5re].d.GTrheiesnprporceetdreuartemuesnest liensvsoelnversgiyo,nisiceclioq\uc0\u8208 ufridensd(IlyL,sa),ndeep\
+epurotedcutcicessnoolviennhtisb,itaonrsd[4n5a]t.uGrareledneperpeterueatetmcteicntsionlvoelnvtess. ioPnreictrleiqautmidesn(ItLws)i,tdheIeLpseiumtepcrtiocved\
+gsolulvceonstes,parnodnuactuioranl fdreoemp euntzeyctmicastoiclvheyndtsr.oPlryestirseabtymienctrweaitshinIgLsciemllpurlosvedcrgylustcaolslienpitryo\uc0\u8208 and\
+duecrtieoansifnrgompaerntizcylemsaitziec ahnydrloiglynsins bleyveinlc[r4e6a]s.inEgnhcealnlucelodseligcrnyisntalnlidnitcyelalunldosdeebcreaskindgown\
+opcacrtuicrlredsizbeyabnrdelaikginning lienvterlam[46o]l.eEcunhlarncaendlignnteinrmanodleceullaurlohseydbroeagkednobwonodcscu[4r7re].d bTyhese\
+pbreatrkeiantgminetnrtaampoplerocuaclahreasnfdaciniltietartmeoelnezcuylmarehaycdcreosgsiebnilbitoynfdosr[h47y]d.rTohleyseisp,rientcrreeaatmsinengtsaupr\uc0\u8208 face\
+proaches facilitate enzyme accessibility for hydrolysis, increasing surface area while de\uc0\u8208 \
+area while decreasing operational expenses. Pathak et al. [12] discussed the strategies for creasing operational expenses. Pathak et al. [12] discussed the strategies for the valoriza\uc0\u8208 \
+the valorization of fruit wastes into value-added compounds. The possible valorization\
+tion of fruit wastes into value\uc0\u8208 added compounds. The possible valorization approaches\
+approaches for agro-waste conversion into useful bioproducts and biochemicals are shown\
+for agro\uc0\u8208 waste conversion into useful bioproducts and biochemicals are shown in Figure 2.\
+in Figure 2.\
+  Figure 2. Agro\uc0\u8208 waste valorization methods for the development of value\u8208 added bioproducts. Figure 2. Agro-waste valorization methods for the development of value-added bioproducts.\
+4. Bioactive Compounds from Agro\uc0\u8208 Waste\
+4. Bioactive Compounds from Agro-Waste\
+In the scientific literature, bioactive compounds (BCs) are described as a natural com\uc0\u8208 \
+In the scientific literature, bioactive compounds (BCs) are described as a natural\
+pound capable of interacting with one or more components of living tissues and exerting\
+compound capable of interacting with one or more components of living tissues and\
+a variety of effects [48,49]. In addition, the distinctions between the definitions of dietary\
+exerting a variety of effects [48,49]. In addition, the distinctions between the definitions of supplements, nutraceuticals, and functional foods are sometimes misinterpreted. In con\uc0\u8208  dietary supplements, nutraceuticals, and functional foods are sometimes misinterpreted. In trast to dietary supplements and food additives, nutraceuticals and functional foods are contrast to dietary supplements and food additives, nutraceuticals and functional foods are also important [50]. In a nutshell, functional foods contain bioactives that may be helpful also important [50]. In a nutshell, functional foods contain bioactives that may be helpful to health at higher levels compared to regular foods. These substances may contribute for\
+to health at higher levels compared to regular foods. These substances may contribute for the better health benefits, as they are deemed superior to conventional foods. Food additives are substances added during food processing to improve food quality and its shelf life [51]. Due to consumers\'92 increased awareness of the health-promoting effects of nutraceuticals and dietary supplements, interest in adding functional and natural food additives has increased dramatically in recent years. Similarly, consumer interest in health\
+\
+ing requirements as medicines.\
+n p\
+m m\
+e n\
+h r\
+a\
+s m\
+d r\
+e\
+The interest in BCs for various culinary applications continues to expa ongoing research efforts to determine the health qualities and prospective a\
+Bioengineering 2023, 10, 152 7 of 17 these chemicals, which are primarily taken from natural sources, as well a\
+consumer interest. Due to their pharmacological properties, they were com\
+ and wellbeing has propelled the expansion of the dietary supplement and nutraceutical\
+medications and derived mostly from plants, vegetables, and microorganis\
+markets. Nutraceuticals and dietary supplements can refer to a variety of products with\
+health benefits [52]. However, nutraceuticals are a distinct subset of dietary supplements\
+because they contain pharmaceutical-grade substances but are exempt from the same\
+5. Application of Agro\uc0\u8208 Waste in Agri\u8208 Food\u8208 Pharma\
+testing requirements as medicines.\
+The interest in BCs for various culinary applications continues to expand, fueled by\
+The biobased concept is the primary focus of current research becaus\
+ongoing research efforts to determine the health qualities and prospective applications\
+of these chemicals, which are primarily taken from natural sources, as well as public and\
+potential to improve efficiency, cost, and yield, which support and protect e\
+consumer interest. Due to their pharmacological properties, they were commercialized as medications and derived mostly from plants, vegetables, and microorganisms [53].\
+sustainability [54]. There are several valuable bioproducts that can be wit\
+agricultural waste biomass using potential bioconversion pretreatment app\
+5. Application of Agro-Waste in Agri-Food-Pharma\
+The biobased concept is the primary focus of current research because of its great\
+as in the agriculture sector (vermicomposting, biofertilizers, biochar, wood\
+potential to improve efficiency, cost, and yield, which support and protect environmental sustainability [54]. There are several valuable bioproducts that can be withdrawn from\
+bioenergy sector (biofuels), and the pharma sector (antimicrobials, antioxid\
+agricultural waste biomass using potential bioconversion pretreatment approaches, such as tibiotic productioint)h.eaTgrhicuelrtueresaercteor(vearmricomupsostiyngp,beiosferotilfizebrsi,obiaocchtari,vweoosdvainedgar)b,tihoebpioreon-duct\
+5.1.1. Vermicomposting\
+ergy sector (biofuels), and the pharma sector (antimicrobials, antioxidants, and antibiotic\
+developed from agro\uc0\u8208 waste, as shown in Figure 3. Agricultural wastes, as\
+production). There are various types of bioactives and bioproducts that can be developed from agro-waste, as shown in Figure 3. Agricultural wastes, as mentioned below, can be\
+low, can be biotransformed into high\uc0\u8208 value\u8208 added products.\
+biotransformed into high-value-added products.\
+ Figure 3. Agro\uc0\u8208 wasFtiegu\u8208 rdee3.rAivgreo-dwabstei-odeprirveoddbiuopcrtosduactns adndbioacaticveticvomepcouonmds.pounds. 5.1. Agriculture Sector\
+5.1. Agriculture Sector\
+5.1.1. Vermicomposting\
+Vermicomposting is the decomposition of organic household waste, and can be used\
+in conjunction with inexpensive, space-saving models to improve soil fertility. Waste\
+items from the agricultural industry that have not been reused or repurposed include\
+both agricultural and processing byproducts [55]. These agri-horticultural wastes are Vermicomposting is the decomposition of organic household waste, an\
+highly biodegradable, making them a major issue in municipal landfills. These are the untapped raw materials with industrial applications [56]. Straw, leaves, twigs, stubbles,\
+in conjunction with inexpensive, space\uc0\u8208 saving models to improve soil fe\
+and vast quantities of grasses and weeds have all been produced during production of crops\
+items from the agricultural industry that have not been reused or repurposed\
+and agriculture. By working together, earthworms and aerobic microorganisms stabilize\
+agricultural and processing byproducts [55]. These agri\uc0\u8208 horticultural wast biodegradable, making them a major issue in municipal landfills. These are t raw materials with industrial applications [56]. Straw, leaves, twigs, stubb\
+\
+Bioengineering 2023, 10, 152\
+8 of 17\
+ organic waste during the vermicomposting process. Vermicomposting is a low-cost and environmentally friendly method for dealing with agricultural waste. One of the most prevalent earthworm species utilized in vermicomposting is Eisenia foetida [57]. Results from physicochemical analyses have indicated that, in comparison to compost and other agricultural wastes, vermicomposting reduces total organic carbon (TOC) and the carbon\'96 nitrogen (C/N) ratio while increasing nitrogen\'96phosphorus\'96potassium (NPK) content [58]. Additionally, it can be used to increase agricultural yields by eliminating harmful organisms in the environment (biocontrol), enhancing soil water retention, and manufacturing plant growth regulators. In an effort to revitalize depleted soils, Roohi et al. [59] fertilized maize with either bacteria or compost, or with both. Compost was found to increase both microbial activity and diversity in degraded irrigated soils. Das and Deka [60] demonstrated that nitrogen, phosphorus, and potassium concentrations in compost made from cow dung using E. fetida were significantly higher than in compost made from other types of waste. In addition, studies have found that certain species of earthworms secrete the decomposition- promoting phosphatase enzyme [61]. Therefore, vermicomposting can function as a tool for environmental conservation.\
+5.1.2. Biofertilizers\
+Soil biofertilizers, which can be made from microorganisms such as bacteria, cyanobac- teria, fungi, and algae, are defined as those that improve soil quality by adding nutrients and carbon substrates. Green manures such as cyanobacterial supplements and bioformu- lations of bacteria such as Azotobacter sp., Azospirillum sp., Trichoderma sp., and arbuscular mycorrhizal fungus (AMF) are the most prevalent and widely used biofertilizers. In ad- dition to microbial \'93biofertilizers\'94, farmers frequently employ organic-based fertilizers, including vermicomposting residues, crop residues, and farmyard manure [62,63]. Efforts have been made to develop biofertilizers from agri-waste in the form of discarded melons, pineapples, oranges, bananas, and papayas. Biofertilizer was made using a solid-state fermentation technique and then employed in a vegetable garden. The physical prop- erties of plant samples treated with biofertilizer made from watermelon, papaya, and banana wastes were positively represented in the experimental results. The maximum potassium concentration was found in the banana biofertilizer [64]. Composting and anaerobic digestion (AD) are the two major processes that make use of the metabolic capa- bilities of the thermophilic and decomposer microbial populations [65]. Enzymes found in native microbial communities aid in bioprocesses for the production of biofertilizers from agro-wastes.\
+5.1.3. Bioenergy (Biofuels)\
+Fuels made from renewable organic biomass, or biofuels, are considered a way to lessen reliance on fossil fuels, lower greenhouse gas (GHG) emissions, particularly from the transportation sector, and increase fuel supply security. Biofuel production from lignocel- lulosic materials and other wastes is reported by several researchers [10\'9613,66]. Enzymes are used to separate monosaccharides from polysaccharides after physicochemical prepa- ration. Enzymes that break down cellulose, hemicellulose, and lignin are required for maximizing sugar monomer release. It has been noted that thermochemical pretreatment releases oligosaccharides that are not digestible by most of the relevant fermentation organ- isms [13,67]. The use of lignocellulose-derived sugars in ethanol synthesis has received the greatest attention.\
+Ethanol can be efficiently produced from glucose and other hexoses by using the yeast Saccharomyces cerevisiae, which is the most widely used organism for ethanol pro- duction. Brettanomyces bruxellensis and Zymomonas mobilis are yeasts and bacteria, respectively, that can produce ethanol in industrial settings. For example, B. bruxel- lensis has been proven to ferment oat straw hydrolysate to ethanol [68]. When using straw for biofuels, methane (biogas) production is an additional choice. Energy efficiency, greenhouse gas emissions, and biomass conversion are all improved when switching\
+\
+energy density, lower corrosiveness, and greater compatibility with currently us\
+Bioengineering 2023, 10, 152 9 of 17 gines. The use of solventogenic Clostridium has enabled the large\uc0\u8208 scale manufac\
+ acetone, butanol, and ethanol from starchy materials [70]. The potential of straw o waste as a raw material can be used to manufacture biofuels for environmental su\
+from ethanol production to biogas production via anaerobic digestion [69]. Compared bility. to ethanol, butanol (both n-butanol and iso-butanol) offers superior fuel properties due to its higher energy density, lower corrosiveness, and greater compatibility with cur-\
+rently used engines. The use of solventogenic Clostridium has enabled the large-scale\
+5.2. Food Sector\
+manufacture of acetone, butanol, and ethanol from starchy materials [70]. The poten- Agtiraol o\uc0\u8208 wf satrsatweiosragro-owdastoeuasrcaeroawfbmioataecritailvceancobme upsoeduntodmsafonurffaoctoudreabpiopfulieclsatfioorns.Bi\
+environmental sustainability.\
+compounds isolated from agricultural wastes or byproducts mainly include polyp compounds, vitamins, minerals, fatty acids, volatiles, anthocyanins, and pigmen\
+5.2. Food Sector\
+have valuaAbglreo-hweaastlethis abegonoedfistosu.rcFeoorf beixoacmtivpeleco,mepxoturancdtsefdor bfoiodaacptpivliecatcionms.pBoiouacntdivse can b compounds isolated from agricultural wastes or byproducts mainly include polypheno-\
+in food fortification, such as the development of novel functional and health foods (\
+lic compounds, vitamins, minerals, fatty acids, volatiles, anthocyanins, and pigments\
+4). The great diversity of different bioactive compounds from agro\uc0\u8208 waste can be a\
+that have valuable health benefits. For example, extracted bioactive compounds can\
+of natural antioxidants and antimicrobials for wider application in the food and d\
+be used in food fortification, such as the development of novel functional and health foods (Figure 4). The great diversity of different bioactive compounds from agro-waste\
+dustries. Bioactive compounds are widely used in the meat processing industry to p\
+can be a source of natural antioxidants and antimicrobials for wider application in the\
+lipid oxidation in meat products. In addition, a wider variety of micro\uc0\u8208  and nanoen\
+food and drug industries. Bioactive compounds are widely used in the meat process-\
+lation technologies are used to encapsulate these bioactive compounds to increas\
+ing industry to prevent lipid oxidation in meat products. In addition, a wider variety of micro- and nanoencapsulation technologies are used to encapsulate these bioactive\
+applications in the food sector. A study by Kaur et al. [71] extracted the betalains fr\
+compounds to increase their applications in the food sector. A study by Kaur et al. [71] beetroot (Beta vulgaris L.) pomace and developed a functional Kulfi fortified with\
+extracted the betalains from red beetroot (Beta vulgaris L.) pomace and developed a func- sulated betalains. This study improved the bioavailability, stability, and solubility\
+tional Kulfi fortified with encapsulated betalains. This study improved the bioavailabil- active citoy,mstpaboiluitny,dasnd(bsoeltuablialiitnyso)f bfoioracwtiviedceormappopunlidcsa(tbieotnalaiins)thfoer wdiedveerlaoppmlicaetniotnoinf dairy\
+the development of dairy-based food products. Likewise, different technologies are be-\
+food products. Likewise, different technologies are being used to improve the appl\
+ing used to improve the applicability of agro-waste-based bioactive compounds in the\
+ity of agro\uc0\u8208 waste\u8208 based bioactive compounds in the food sector.\
+food sector.\
+ Figure 4. Agro\uc0\u8208 waste as natural sources of bioactive compounds for food applications. Re Figure 4. Agro-waste as natural sources of bioactive compounds for food applications. Reprinted\
+from Shirahigue et al. [72] and is an open\uc0\u8208 access article (copyright \'a9 2023 by authors) dist\
+from Shirahigue et al. [72] and is an open-access article (copyright \'a9 2023 by authors) distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license.\
+under the terms and conditions of the Creative Commons Attribution (CC BY) license.\
+5.3. Pharma Sector\
+5.3. Pharma Sector\
+5.3.1. Antibiotic Production\
+5.3.1. AntibAinottibicioPticrsoadreuchteimonicals produced by certain microbes that inhibit or kill the growth of other germs at extremely low doses. Various agricultural byproducts are utilized in the\
+Antibiotics are chemicals produced by certain microbes that inhibit or kill the g\
+synthesis of various antibiotics [1]. Several research projects employing agro-industrial\
+of othewragsetermtosmaatneuxfatcrteumreealnytilboiowticds owseeres.cVonadruioctueds.aAgsraicgubrlatuetral.b[7y3p] rinovdeustcigtasteadreanu-tilized\
+tibiotics out of a variety of agricultural byproducts and waste products. When it came\
+synthesis of various antibiotics [1]. Several research projects employing agro\uc0\u8208 ind waste to manufacture antibiotics were conducted. Asagbra et al. [73] investigated otics out of a variety of agricultural byproducts and waste products. When it came generation of tetracycline, peanut shells proved to be the most productive substrate mg/g, followed by corncobs. The production of antibiotics was made far more affo\
+                    e t\
+r s\
+o h t\
+e F s\
+r r\
+c\
+e o\
+e o \uc0\u8208 \
+p r\
+u a\
+r\
+\
+Bioengineering 2023, 10, 152\
+10 of 17\
+ to the generation of tetracycline, peanut shells proved to be the most productive sub- strate at 4.36 mg/g, followed by corncobs. The production of antibiotics was made far more affordable by the utilization of low-cost carbon sources derived from a wide va- riety of agricultural waste. These residues present an excellent opportunity for inno- vation in the manufacturing of neomycin and various other antibiotics. In the study conducted by Vastrad and Neelagund [74], the synthesis of extracellular rifamycin B was studied through the use of solid-state fermentation with oil-pressed cake, which is regarded as an agro-industrial waste. An investigation was made into the process of solid-state fermentation used by Streptomyces speibonae OXS1 to create oxytetracycline from cocoyam peels, which are considered to be household kitchen wastes of agricultural output [75].\
+5.3.2. Antioxidant Properties\
+Antioxidant and anticancer drugs were also developed using agro-waste as a sub- strate. The remains of various fruits and vegetables, such as fruit and vegetable peels, are usually referred to as waste or useless. Duda-Chodak and Tarko [76] studied the antioxidant capabilities of fruit seeds and peels. In their investigation, they discov- ered that the peels of selected fruits have the highest antioxidant activity and polyphe- nol concentration. Pomegranate byproducts from farming produce copious amounts of garbage. It contains ellagitannins, punicalagin, and punicalin, which are extremely powerful antioxidants [77]. Based on their broad range of bioactivities, natural products are often viewed as promising candidates for further value-added research. Phenolic chemicals play a particularly important role among them because of the widespread knowledge of their positive effects on human health, including their function in can- cer and cardiovascular disease prevention [78]. Their ability to operate as powerful antioxidants, which are produced in oxidative stress situations and are responsible for the start of a number of inflammatory and degenerative disorders, has been linked to these effects.\
+5.3.3. Antibacterial and Anticancer Properties\
+Waste from the agriculture and food industries has the potential to boost the body\'92s absorption of a wide variety of pharmaceuticals. These are a fantastic resource for a variety of essential nutrients as well as phytochemical substances that can help contribute to a balanced diet. They are a good source of organic and inorganic compounds, sugars, and many phenolic compounds. These phenolic compounds have therapeutic applications due to their anti-inflammatory, antibacterial, immunomodulatory, and antifungal properties. Additionally, they have antibacterial potential due to the production of many antibiotics by microbes produced through agricultural waste. Numerous studies have been conducted on the bioactive compounds found in agricultural residues [49,53]. From the results of orange and lemon processing, millions of tons of waste are generated annually from the industrial manufacture of orange and lemon juice, and this waste is a rich source of hydroxycinnamic acids and flavonoids, primarily flavanone glycosides, flavanones, and flavone aglycons [79]. As byproducts of potatoes, there is little doubt that potato peels are one of the most widely available vegetable waste products. There are a number of potential uses for their extracts, including in the food industry. Chlorogenic acid is the most abundant phenolic acid in peels [80]. Byproducts of lignocellulosic agriculture, such as wheat straw residues, wheat and rice bran, spent residues of coffee ground nuts, and sawdust, have been widely described as a clean source of phenolic compounds and have the potential to be utilized for application in a variety of industries due to the antioxidant and antimicrobial properties that they possess [79].\
+6. Bioactives from Agro Waste: Micro/Nano Formulation and Food Application\
+The main difference between microencapsulation and nanoencapsulation is the par- ticle size, which normally ranges from 1 micrometer (m) to 1 mm (mm), and the length\
+\
+Bioengineering 2023, 10, 152\
+11 of 17\
+ of time microencapsulation has been deployed [81]. Microencapsulation has been imple- mented in nearly all industrial sectors, from agriculture and the environment to house- hold and personal care products [82]. Many nanoencapsulated and microencapsulated technologies rely on particle size and distribution homogeneity to be effective. The use of supercritical carbon dioxide (CO2) has demonstrated promising advantages for en- suring the proper design of particle size in both microencapsulated and nanoencapsu- lated pharmaceuticals, as well as the capacity to manage drug-loading procedures across a variety of temperature, pressure, and flow ratios [83]. As noted previously, one of the most alluring features of nanoencapsulation is its capacity to prevent the degrada- tion of active pharmaceutical ingredients. Nanoencapsulation has also enhanced the accuracy of medication delivery targets by coating or conjugating the surface to en- able proper cell entrance [84]. In addition, nanoencapsulated pharmaceuticals can be labeled with fluorescent probes for imaging, which is particularly important for assess- ing therapeutic efficacy during preclinical and clinical research. In the agriculture sec- tor, nanofertilizers are advantageous for nutrition management due to their high poten- tial for enhancing nutrient utilization efficiency. Alone or in combination, nutrients are bonded to nanodimensional adsorbents, which release nutrients much more slowly than conventional fertilizers.\
+There are a number of conventional techniques for microencapsulating food com- ponents; however, no single technique is compatible with the core materials or product applications. As previously indicated, the process of microencapsulation is governed by the application and factors such as the target particle size, physicochemical properties of the external and interior phases, release mechanisms, total cost, etc. [85]. As the encapsulated chemicals are often in liquid form, drying techniques are commonly used to convert the liquid phase into a stable powder. To encapsulate active agents of food ingredients and nu- traceuticals, various techniques are available [86]. Numerous BACs and other hydrophobic or poorly water-soluble nutrients are crucial for human nutrition and the maintenance of consumer health and wellbeing. Incorporating these compounds into the pharmaceutical and food sectors necessitated overcoming their poor solubility and bioavailability [15]. Nanoencapsulation is a promising strategy for protecting various food elements from certain physiological conditions or deterioration while also disguising some disagreeable aromas and flavors. Reducing the particle size of BACs could improve their stability, bioavailability, solubility, and delivery, hence enhancing their functional activity [87]. In addition, nanoencapsulation can regulate the release of active compounds and improve the final food product\'92s qualities. Nanocapsulated bioactives and their advantages are presented in Figure 5.\
+Advances in nanotechnology have been made in the food science and industry re- cently. When it comes to protecting the public\'92s health and enhancing the functional qualities of food formulations, nanoencapsulation is still one of the most promising options. Thus, new methods for encasing bioactive compounds are constantly being introduced, each with their own set of benefits and drawbacks [15]. By using nanoencapsulation, food scientists and engineers can create protective shields that can withstand harsh envi- ronments, hide off-putting flavors and odors, and improve nutrient absorption, release, and delivery while also increasing the solubility of lipophilic bioactive substances in water [88]. There is a high probability of overlap between the many uses of nanoencapsu- lation methods. Therefore, features such as release patterns, safety and toxicity concerns, and economic considerations are taken into account when selecting a nanocarrier for the bioactive molecule.\
+\
+ments from certain physiological conditions or deterioration while also disguising some\
+disagreeable aromas and flavors. Reducing the particle size of BACs could improve their\
+stability, bioavailability, solubility, and delivery, hence enhancing their functional activity\
+[87]. In addition, nanoencapsulation can regulate the release of active compounds and\
+Bioengineering 2023, 10, 152 12 of 17 improve the final food product\'92s qualities. Nanocapsulated bioactives and their ad\uc0\u8208 \
+vantages are presented in Figure 5.\
+Figure 5. Limitations of bioactive compounds and application of nanoencapsulation to increase bioactive compounds applicability in food industry. Reprinted from Pateiro et al. [15] and is an open-access article (copyright \'a9 2023 by authors) distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license.\
+7. Future Prospective and Limitations\
+Agricultural residues are a potential resource for the synthesis of high-value com- pounds. In the future, biotechnological methods will be utilized to extract high-value bioproducts from agricultural waste. Because of their low energy requirements and low cost, integrated nano- and biotechnological techniques are preferred for industrial waste valorization. Furthermore, biotechnological methods for agricultural waste valorization are viable solutions for developing unique bioproducts for a variety of industries [54]. There- fore, it is necessary to design eco-friendly and cost-effective cascade conversion techniques. Agricultural waste is seen as a nutritional and functional raw resource that can be utilized in numerous applications, making it a viable solution to economic and environmental issues [89,90]. They can be employed directly as protein, fat, vitamin, fiber, carbohydrate, mineral, and antioxidant dietary components. Other biomolecules from agricultural waste can be recovered physically or chemically and employed as nutritional and functional components. In order to preserve the physicochemical and microbiological stability of bioproducts during the valorization of these agricultural wastes, the unitary drying process is required to prevent microbial hazards [91]. Therefore, governments should promote the installation of infrastructure and technology that enables the use of agricultural leftovers and trash in production and storage regions. The elimination of other dangers, such as poisonous substances and antinutritional factors, must also be considered [92]. Thus, such unique and worthwhile technical implementation may be helpful in addressing such prob-\
+  \
+Bioengineering 2023, 10, 152\
+13 of 17\
+ References\
+lems across all sectors of agro-waste usage. A well-managed supply chain, supported by analysis, can also help in the disposal of agricultural waste. Agro-industrial food waste can be a useful low-cost feedstock for sustainable production of industrial products [93]. Thus, an appropriate green technology is required for bioproducts development. Moreover, the difficulties of economics and market resistance are reduced over time through effective policies and assessments of their execution.\
+8. Conclusions\
+Together, environmental policy and the growing demand for a wide variety of biobased products have led to a shift toward a greater focus on finding new uses for agricultural byproducts. Wastes from the food and agriculture industries are rich sources of both nutri- ents and bioactive compounds. It is more accurate to refer to these materials as \'93feedstock\'94 rather than \'93waste\'94 when addressing their possible use in the development of bioprod- ucts due to the fact that their composition might vary, including the presence of sugars, minerals, and proteins. The analysis presented here focuses mostly on agricultural waste, which was valorized in a number of ways to produce value-added products. Valorization through biotechnological and green approaches are helpful in bioproducts development in a cost-effective and comprehensive way. In order to establish a safe and green envi- ronment, it is beneficial to recycle wastes from the agricultural and agro-based sectors and use them as feedstock for development of various value-added molecules. Besides these, nanomaterials-based technology can also be used to increase bioactive compounds applicability in various industrial sectors.\
+Author Contributions: Conceptualization, M.T. and M.S.; methodology, S.B. and D.G.; software, S.K. and R.S.; validation, K.S., B.S.I., M.T. and M.S.; formal analysis, S.B. and D.G.; investigation, S.B. and D.G.; resources, M.T. and M.S.; data curation, S.B. and D.G.; writing\'97original draft preparation, S.B., R.S. and D.G.; writing\'97review and editing, K.S., R.S., B.S.I., S.K., M.T. and M.S.; visualization, R.S., K.S., B.S.I., M.T. and M.S.; supervision, M.T. and M.S.; project administration, M.T. and M.S.; funding acquisition, M.T. and M.S. All authors have read and agreed to the published version of the manuscript.\
+Funding: This research received no external funding.\
+Institutional Review Board Statement: Not applicable.\
+Informed Consent Statement: Not applicable.\
+Data Availability Statement: Data are available within the article.\
+Acknowledgments: We are grateful to Biotechnology Program, Rammanohar Lohia Avadh Univer- sity, Ayodhya, India.\
+Conflicts of Interest: The authors declare no conflict of interest.\
+1. Chilakamarry, C.R.; Sakinah, A.M.; Zularisam, A.; Sirohi, R.; Khilji, I.A.; Ahmad, N.; Pandey, A. Advances in solid-state fermentation for bioconversion of agricultural wastes to value-added products: Opportunities and challenges. Bioresour. Technol. 2022, 343, 126065. [CrossRef] [PubMed]\
+2. Awogbemi, O.; Von Kallon, D.V. Pretreatment techniques for agricultural waste. Case Stud. Chem. Environ. Eng. 2022, 6, 100229. [CrossRef]\
+3. Koul, B.; Yakoob, M.; Shah, M.P. Agricultural waste management strategies for environmental sustainability. Environ. Res. 2022, 206, 112285. [CrossRef] [PubMed]\
+4. Food and Agriculture Organization of the United Nations. The State of Food and Agriculture 2016 (SOFA): Climate Change, Agriculture and Food Security; Food and Agriculture Organization of the United Nations: Rome, Italy, 2016; Available online: https://www.fao.org/3/i6030e/i6030e.pdf (accessed on 5 December 2022).\
+5. Lynch, J.; Cain, M.; Frame, D.; Pierrehumbert, R. Agriculture\'92s contribution to climate change and role in mitigation is distinct from predominantly fossil CO2-emitting sectors. Front. Sustain. Food Syst. 2021, 4, 300. [CrossRef] [PubMed]\
+6. Dwivedi, S.; Tanveer, A.; Yadav, S.; Anand, G.; Yadav, D. Agro-Wastes for Cost Effective Production of Industrially Important Microbial Enzymes: An Overview. In Microbial Biotechnology: Role in Ecological Sustainability and Research; Chow-Dhary, P., Mani, S., Chaturvedi, P., Eds.; Wiley: Hoboken, NJ, USA, 2022; pp. 435\'96460.\
+\
+Bioengineering 2023, 10, 152 14 of 17\
+ 7. Chojnacka, K.; Gorazda, K.; Witek-Krowiak, A.; Moustakas, K. Recovery of fertilizer nutrients from materials-Contradictions, mistakes and future trends. Renew. Sustain. Energy Rev. 2019, 110, 485\'96498. [CrossRef]\
+8. Reshmy, R.; Philip, E.; Madhavan, A.; Sirohi, R.; Pugazhendhi, A.; Binod, P.; Awasthi, M.K.; Vivek, N.; Kumar, V.; Sindhu, R. Lignocellulose in future biorefineries: Strategies for cost-effective production of biomaterials and bioenergy. Bioresour. Technol. 2022, 344, 126241. [CrossRef]\
+9. Balan, A.; Murthy, V.V.; Kadeppagari, R.K. Immobilized enzymes for bioconversion of waste to wealth. In Biotechnology for Zero Waste: Emerging Waste Management Techniques; Hussain, C.M., Kadeppagari, R.K., Eds.; Wiley: Hoboken, NJ, USA, 2022; pp. 33\'9646.\
+10. Bala, S.; Sharma, M.; Dashora, K.; Siddiqui, S.; Diwan, D.; Tripathi, M. Nanomaterials based sustainable bioenergy production\
+systems: Current trends and future prospects. Nanofabrication 2022, 7, 314\'96324. [CrossRef]\
+11. Gupta, V.K.; Nguyen, Q.D.; Liu, S.; Taherzadeh, M.J.; Sirohi, R. Microbes in valorisation of biomass to value-added products\
+(MVBVAP). Bioresour. Technol. 2022, 347, 126738. [CrossRef]\
+12. Pathak, N.; Singh, S.; Singh, P.; Singh, P.K.; Singh, R.; Bala, S.; Thirumalesh, B.V.; Gaur, R.; Tripathi, M. Valorization of jackfruit\
+waste into value added products and their potential applications. Front. Nutr. 2022, 9, 1061098. [CrossRef]\
+13. Usmani, Z.; Sharma, M.; Diwan, D.; Tripathi, M.; Whale, E.; Jayakody, L.N.; Moreau, B.; Thakur, V.K.; Tuohy, M.; Gupta, V.K.\
+Valorization of sugar beet pulp to value-added products: A review. Bioresour. Technol. 2022, 346, 126580. [CrossRef]\
+14. Kim, D.-Y.; Kadam, A.; Shinde, S.; Saratale, R.G.; Patra, J.K.; Ghodake, G. Recent developments in nanotechnology transforming\
+the agricultural sector: A transition replete with opportunities. J. Sci. Food Agric. 2018, 98, 849\'96864. [CrossRef]\
+15. Pateiro, M.; G\'f3mez, B.; Munekata, P.; Barba, F.; Putnik, P.; Kovac\uc0\u711 evic\u32 \u769 , D.; Lorenzo, J. Nanoencapsulation of Promising Bioactive Compounds to Improve Their Absorption, Stability, Functionality and the Appearance of the Final Food Products. Molecules\
+2021, 26, 1547. [CrossRef]\
+16. Donner, M.; Gohier, R.; de Vries, H. A new circular business model typology for creating value from agro-waste. Sci. Total.\
+Environ. 2020, 716, 137065. [CrossRef]\
+17. Verma, A.; Kumar, S.; Jain, P.K. Key pretreatment technologies on cellulosic ethanol production. J. Sci. Res. 2011, 55, 57\'9663.\
+18. Muhammad, S.; Khalil, H.P.S.A.; Hamid, S.A.; Albadn, Y.M.; Suriani, A.B.; Kamaruzzaman, S.; Mohamed, A.; Allaq, A.A.; Yahya,\
+E.B. Insights into Agricultural-Waste-Based Nano-Activated Carbon Fabrication and Modifications for Wastewater Treatment\
+Application. Agriculture 2022, 12, 1737. [CrossRef]\
+19. Popa, V.I. Biomass and Sustainability. In Sustainability of Biomass through Bio-Based Chemistry; CRC Press: Boca Raton, FL, USA,\
+2021; pp. 1\'9633.\
+20. Aravani, V.P.; Sun, H.; Yang, Z.; Liu, G.; Wang, W.; Anagnostopoulos, G.; Syriopoulos, G.; Charisiou, N.D.; Goula, M.A.;\
+Kornaros, M.; et al. Agricultural and livestock sector\'92s residues in Greece & China: Comparative qualitative and quantitative\
+characterization for assessing their potential for biogas production. Renew. Sustain. Energy Rev. 2022, 154, 111821.\
+21. Sorathiya, L.M.; Fulsoundar, A.B.; Tyagi, K.K.; Patel, M.D.; Singh, R. Eco-friendly and modern methods of livestock waste\
+recycling for enhancing farm profitability. Int. J. Recycl. Org. Waste Agric. 2014, 3, 1\'967. [CrossRef]\
+22. Dauda, A.B.; Ajadi, A.; Tola-Fabunmi, A.S.; Akinwole, A.O. Waste production in aquaculture: Sources, components and\
+managements in different culture systems. Aquac. Fish. 2019, 4, 81\'9688. [CrossRef]\
+23. Wang, R.; Wang, Q.; Dong, L.; Zhang, J. Cleaner agricultural production in drinking-water source areas for the control of non-point\
+source pollution in China. J. Environ. Manag. 2021, 285, 112096. [CrossRef]\
+24. Dey, T.; Bhattacharjee, T.; Nag, P.; Ghati, A.; Kuila, A. Valorization of agro-waste into value added products for sustainable\
+development. Bioresour. Technol. Rep. 2021, 16, 100834. [CrossRef]\
+25. de Souza, L.; Shivakumar, S. Conversion of Agro-industrial Wastes for the Manufacture of Bio-based Plastics. In Bioplastics for\
+Sustainable Development; Springer: Singapore, 2021; pp. 177\'96204.\
+26. Saravanan, A.; Kumar, P.S.; Jeevanantham, S.; Karishma, S.; Vo, D.-V.N. Recent advances and sustainable development of biofuels\
+production from lignocellulosic biomass. Bioresour. Technol. 2022, 344, 126203. [CrossRef] [PubMed]\
+27. Ndayisenga, F.; Yu, Z.; Zheng, J.; Wang, B.; Liang, H.; Phulpoto, I.A.; Habiyakare, T.; Zhou, D. Microbial electrohydrogenesis cell and dark fermentation integrated system enhances biohydrogen production from lignocellulosic agricultural wastes: Sub-strate\
+pretreatment towards optimization. Renew. Sustain. Energy Rev. 2021, 145, 111078. [CrossRef]\
+28. Zhang, D.; Jiang, B.; Luo, Y.; Fu, X.; Kong, H.; Shan, Y.; Ding, S. Effects of ultrasonic and ozone pretreatment on the structural and\
+functional properties of soluble dietary fiber from lemon peel. J. Food Process. Eng. 2022, 45, e13916. [CrossRef]\
+29. Periyasamy, S.; Karthik, V.; Kumar, P.S.; Isabel, J.B.; Temesgen, T.; Hunegnaw, B.M.; Melese, B.B.; Mohamed, B.A.; Vo, D.-V.N. Chemical, physical and biological methods to convert lignocellulosic waste into value-added products. A review. Environ. Chem.\
+Lett. 2022, 20, 1129\'961152. [CrossRef]\
+30. Indriani, D.W.; Susilo, B. The effect of microwave power on lignocellulose content, physical and chemical characteristics of\
+biomass: A review. IOP Conf. Ser. Earth Environ. Sci. 2021, 924, 012069. [CrossRef]\
+31. Usmani, Z.; Sharma, M.; Tripathi, M.; Nizami, A.S.; Gong, L.; Nguyen, Q.D.; Reddy, M.S.; Thakur, V.K.; Gupta, V.K. Converting\
+biowaste streams into energy\'96leveraging microwave assisted valorization technologies for enhanced conversion. J. Energy Inst.\
+2023, 107, 101161. [CrossRef]\
+32. Alcazar-Ruiz, A.; Ortiz, M.L.; Sanchez-Silva, L.; Dorado, F. Catalytic effect of alkali and alkaline earth metals on fast pyrolysis\
+pre-treatment of agricultural waste. Biofuels Bioprod. Biorefin. 2021, 15, 1473\'961484. [CrossRef]\
+\
+Bioengineering 2023, 10, 152 15 of 17\
+ 33. Rasid, N.S.A.; Shamjuddin, A.; Amin, N.A.S. Chemical and Structural Changes of Ozonated Empty Fruit Bunch (EFB) in a Ribbon-Mixer Reactor. Bull. Chem. React. Eng. Catal. 2021, 16, 383\'96395. [CrossRef]\
+34. Kanrar, B.B.; Singh, S.; Pal, S.K.; Panda, D. Mild-temperature organosolv treatment of rice-straw: Extracting ability of dime- thylformamide and material applications. Int. J. Environ. Sci. Technol. 2022, 1\'9612. [CrossRef]\
+35. Khan, M.U.; Usman, M.; Ashraf, M.A.; Dutta, N.; Luo, G.; Zhang, S. A review of recent advancements in pretreatment tech-niques of lignocellulosic materials for biogas production: Opportunities and Limitations. Chem. Eng. J. Adv. 2022, 10, 100263. [CrossRef]\
+36. Zheng, Y.; Zhang, Q.; Zhang, Z.; Jing, Y.; Hu, J.; He, C.; Lu, C. A review on biological recycling in agricultural waste-based\
+biohydrogen production: Recent developments. Bioresour. Technol. 2021, 347, 126595. [CrossRef]\
+37. Naik, G.P.; Poonia, A.K.; Chaudhari, P.K. Pretreatment of lignocellulosic agricultural waste for delignification, rapid hydrolysis,\
+and enhanced biogas production: A review. J. Indian Chem. Soc. 2021, 98, 100147. [CrossRef]\
+38. Yin, X.; Wei, L.; Pan, X.; Liu, C.; Jiang, J.; Wang, K. The pretreatment of lignocelluloses with green solvent as biorefinery\
+pre-process: A minor review. Front. Plant Sci. 2021, 12, 670061. [CrossRef]\
+39. Das, L.; Achinivu, E.C.; Barcelos, C.A.; Sundstrom, E.; Amer, B.; Baidoo, E.E.; Simmons, B.A.; Sun, N.; Gladden, J.M. Decon-\
+struction of woody biomass via protic and aprotic ionic liquid pretreatment for ethanol production. ACS Sustain. Chem. Eng.\
+2021, 9, 4422\'964432. [CrossRef]\
+40. Kumar, N.; Gautam, R.; Stallings, J.D.; Coty, G.G.; Lynam, J.G. Secondary Agriculture Residues Pretreatment Using Deep Eutectic\
+Solvents. Waste Biomass-Valoriz. 2021, 12, 2259\'962269. [CrossRef]\
+41. Rahmani, A.M.; Gahlot, P.; Moustakas, K.; Kazmi, A.A.; Ojha, C.S.P.; Tyagi, V.K. Pretreatment methods to enhance solubili-zation\
+and anaerobic biodegradability of lignocellulosic biomass (wheat straw): Progress and challenges. Fuel 2022, 319, 123726.\
+[CrossRef]\
+42. Prasad, B.R.; Padhi, R.K.; Ghosh, G. A review on key pretreatment approaches for lignocellulosic biomass to produce biofuel and\
+value-added products. Int. J. Environ. Sci. Technol. 2022, 1\'9616. [CrossRef]\
+43. Zhou, Z.; Ouyang, D.; Liu, D.; Zhao, X. Oxidative pretreatment of lignocellulosic biomass for enzymatic hydrolysis: Progress and\
+challenges. Bioresour. Technol. 2022, 367, 128208. [CrossRef]\
+44. Igwo-Ezikpe, M.N.; Ayanshina, A.O.; Babalola, M. Optimization of Chemical Pre-Treatment of Cassava Bagasse for Reducing\
+Sugar and Bioethanol Production. Univ. Lagos J. Basic Med. Sci. 2022, 3, 14\'9623.\
+45. Cheng, H.-H.; Whang, L.-M. Resource recovery from lignocellulosic wastes via biological technologies: Advancements and\
+prospects. Bioresour. Technol. 2022, 343, 126097. [CrossRef]\
+46. Mudzakir, A.; Rizky, K.M.; Munawaroh, H.S.H.; Puspitasari, D. Oil palm empty fruit bunch waste pretreatment with ben-\
+zotriazolium-based ionic liquids for cellulose conversion to glucose: Experiments with computational bibliometric analysis.\
+Indones. J. Sci. Technol. 2022, 7, 291\'96310. [CrossRef]\
+47. Malolan, R.; Gopinath, K.P.; Vo, D.-V.N.; Jayaraman, R.S.; Adithya, S.; Ajay, P.S.; Arun, J. Green ionic liquids and deep eutectic\
+solvents for desulphurization, denitrification, biomass, biodiesel, bioethanol and hydrogen fuels: A review. Environ. Chem. Lett.\
+2021, 19, 1001\'961023. [CrossRef]\
+48. Zhang, Q.; Zhou, Y.; Yue, W.; Qin, W.; Dong, H.; Vasanthan, T. Nanostructures of protein-polysaccharide complexes or conjugates\
+for encapsulation of bioactive compounds. Trends Food Sci. Technol. 2021, 109, 169\'96196. [CrossRef]\
+49. Gu\'eda-Garc\'eda, J.L.; Charles-Rodr\'edguez, A.V.; Reyes-Vald\'e9s, M.H.; Ram\'edrez-Godina, F.; Robledo-Olivo, A.; Garc\'eda-Osuna, H.T.; Cerqueira, M.A.; Flores-L\'f3pez, M.L. Micro and nanoencapsulation of bioactive compounds for agrifood applications: A re-view.\
+Ind. Crop. Prod. 2022, 186, 115198. [CrossRef]\
+50. Santini, A.; Cammarata, S.M.; Capone, G.; Ianaro, A.; Tenore, G.C.; Pani, L.; Novellino, E. Nutraceuticals: Opening the debate for\
+a regulatory framework. Br. J. Clin. Pharmacol. 2018, 84, 659\'96672. [CrossRef]\
+51. Banwo, K.; Olojede, A.O.; Adesulu-Dahunsi, A.T.; Verma, D.K.; Thakur, M.; Tripathy, S.; Singh, S.; Patel, A.R.; Gupta, A.K.;\
+Aguilar, C.N.; et al. Functional importance of bioactive compounds of foods with Potential Health Benefits: A review on recent\
+trends. Food Biosci. 2021, 43, 101320. [CrossRef]\
+52. Daliri, E.B.-M.; Lee, B.H. Current Trends and Future Perspectives on Functional Foods and Nutraceuticals. In Beneficial Microor-\
+ganisms in Food and Nutraceuticals; Springer International Publishing: Cham, Switzerland, 2015; pp. 221\'96244.\
+53. Vilas-Boas, A.A.; Pintado, M.; Oliveira, A.L. Natural bioactive compounds from food waste: Toxicity and safety concerns. Foods\
+2021, 10, 1564. [CrossRef]\
+54. Capanoglu, E.; Nemli, E.; Tomas-Barberan, F. Novel Approaches in the Valorization of Agricultural Wastes and Their Ap-plications.\
+J. Agric. Food Chem. 2022, 70, 6787\'966804. [CrossRef]\
+55. Singh, D.N.; Tripathi, M.; Singh, V.S.; Singh, R.; Gaur, R.; Pathak, N. Management of agriculture waste: Bioconversion of\
+agro-waste into valued products. In Bioremediation: Challenges and Advancements; Tripathi, M., Singh, D.N., Eds.; Bentham Science\
+Publisher: Singapore, 2022; pp. 225\'96253.\
+56. Siddiqua, A.; Hahladakis, J.N.; Al-Attiya, W.A.K.A. An overview of the environmental pollution and health effects associated\
+with waste landfilling and open dumping. Environ. Sci. Pollut. Res. 2022, 29, 58514\'9658536. [CrossRef]\
+57. Ramnarain, Y.I.; Ansari, A.A.; Ori, L. Vermicomposting of different organic materials using the epigeic earthworm Eisenia foetida.\
+Int. J. Recycl. Org. Waste Agric. 2022, 8, 23\'9636. [CrossRef]\
+58. Motamedi, A.; Jafarpour, M.; Oshaghi, M. Improving the vermicompost quality by using horticultural and agronomic residues. J.\
+Plant Nutr. 2022, 45, 727\'96738. [CrossRef]\
+\
+Bioengineering 2023, 10, 152 16 of 17\
+ 59. Roohi, M.; Arif, M.S.; Guillaume, T.; Yasmeen, T.; Riaz, M.; Shakoor, A.; Farooq, T.H.; Shahzad, S.M.; Bragazza, L. Role of fertilization regime on soil carbon sequestration and crop yield in a maize-cowpea intercropping system on low fertility soils. Geoderma 2022, 428, 116152. [CrossRef]\
+60. Das, D.; Deka, H. Vermicomposting of harvested waste biomass of potato crop employing Eisenia fetida: Changes in nutrient profile and assessment of the maturity of the end products. Environ. Sci. Pollut. Res. 2021, 28, 35717\'9635727. [CrossRef]\
+61. Giri, B.; Varma, A. (Eds.) Soil Health; Springer International Publishing: Cham, Switzerland, 2020. [CrossRef]\
+62. Sigurnjak, I.; Brienza, C.; Snauwaert, E.; De Dobbelaere, A.; De Mey, J.; Vaneeckhaute, C.; Michels, E.; Schoumans, O.; Adani, F.; Meers, E. Production and performance of bio-based mineral fertilizers from agricultural waste using ammonia (stripping-)\
+scrubbing technology. Waste Manag. 2019, 89, 265\'96274. [CrossRef]\
+63. Diacono, M.; Persiani, A.; Testani, E.; Montemurro, F.; Ciaccia, C. Recycling Agricultural Wastes and By-products in Organic\
+Farming: Biofertilizer Production, Yield Performance and Carbon Footprint Analysis. Sustainability 2019, 11, 3824. [CrossRef]\
+64. Lim, S.-F.; Matu, S.U. Utilization of agro-wastes to produce biofertilizer. Int. J. Energy Environ. Eng. 2015, 6, 31\'9635. [CrossRef]\
+65. Bian, B.; Hu, X.; Zhang, S.; Lv, C.; Yang, Z.; Yang, W.; Zhang, L. Pilot-scale composting of typical multiple agricultural wastes:\
+Parameter optimization and mechanisms. Bioresour. Technol. 2019, 287, 121482. [CrossRef]\
+66. Passoth, V.; Sandgren, M. Biofuel production from straw hydrolysates: Current achievements and perspectives. Appl. Microbiol.\
+Biotechnol. 2019, 103, 5105\'965116. [CrossRef]\
+67. Almendro-Candel, M.B.; G\'f3mez Lucas, I.; Navarro-Pedre\'f1o, J.; Zorpas, A.A. Physical Properties of Soils Affected by the Use of\
+Agricultural Waste. Agric. Waste Residues 2018, 2, 9\'9627. [CrossRef]\
+68. Cheng, F.; Brewer, C. Conversion of protein-rich lignocellulosic wastes to bio-energy: Review and recommendations for hydrolysis\
++ fermentation and anaerobic digestion. Renew. Sustain. Energy Rev. 2021, 146, 111167. [CrossRef]\
+69. Yong, K.J.; Wu, T.Y. Second-generation bioenergy from oilseed crop residues: Recent technologies, techno-economic assessments\
+and policies. Energy Convers. Manag. 2022, 267, 115869. [CrossRef]\
+70. Karthick, C.; Nanthagopal, K. A comprehensive review on ecological approaches of waste to wealth strategies for production of\
+sustainable biobutanol and its suitability in automotive applications. Energy Convers. Manag. 2021, 239, 114219. [CrossRef]\
+71. Kaur, N.; Kaur, A.; Sridhar, K.; Sharma, M.; Singh, T.P.; Kumar, S. Development and quality characteristics of functional Kulfi\
+fortified with microencapsulated betalains. Int. J. Food Sci. Technol. 2021, 56, 5362\'965370. [CrossRef]\
+72. Shirahigue, L.D.; Ceccato-Antonini, S.R. Agro-industrial wastes as sources of bioactive compounds for food and fermentation\
+industries. Ci\'eanc. Rural. St. Maria 2020, 50, 1\'9617. [CrossRef]\
+73. Asagbra, A.E.; Sanni, A.I.; Oyewole, O.B. Solid-state fermentation production of tetracycline by Streptomyces strains using some\
+agricultural wastes as substrate. World J. Microbiol. Biotechnol. 2005, 21, 107\'96114. [CrossRef]\
+74. Vastrad, B.M.; Neelagund, S.E. Optimization and production of neomycin from different agro industrial wastes in solid state\
+fermentation. Int. J. Pharm. Sci. Drug Res. 2011, 3, 104\'96111.\
+75. Ezejiofor, T.I.N.; Duru, C.I.; Asagbra, A.E.; Ezejiofor, A.N.; Orisakwe, O.E.; Afonne, J.O.; Obi, E. Waste to wealth: Production of\
+oxytetracycline using Streptomyces species from household kitchen wastes of agricultural produce. Afr. J. Biotechnol. 2012, 11,\
+10115\'9610124.\
+76. Duda-Chodak, A.; Tarko, T. Antioxidant properties of different fruit seeds and peels. Acta Sci. Pol. Technol. Aliment. 2007, 6, 29\'9636.\
+77. Mourtzinos, I.; Goula, A. Polyphenols in agricultural byproducts and food waste. In Polyphenols in Plants: Isolation, Purification\
+and Extract Preparation; Watson, R.R., Ed.; Academic Press: London, UK, 2019.\
+78. Jimenez-Lopez, C.; Fraga-Corral, M.; Carpena, M.; Garc\'eda-Oliveira, P.; Echave, J.; Pereira, A.G.; Louren\'e7o-Lopes, C.; Prieto, M.A.;\
+Simal-Gandara, J. Agriculture waste valorisation as a source of antioxidant phenolic compounds within a circular and sustainable\
+bioeconomy. Food Funct. 2020, 11, 4853\'964877. [CrossRef]\
+79. Fermoso, F.G.; Serrano, A.; Alonso-Fari\'f1as, B.; Fernandez-Bola\'f1os, J.; Borja, R.; Rodr\'edguez-Guti\'e9rrez, G. Valuable Compound\
+Extraction, Anaerobic Digestion, and Composting: A Leading Biorefinery Approach for Agricultural Wastes. J. Agric. Food Chem.\
+2018, 66, 8451\'968468. [CrossRef]\
+80. Joly, N.; Souidi, K.; Depraetere, D.; Wils, D.; Martin, P. Potato By-Products as a Source of Natural Chlorogenic Acids and Phenolic\
+Compounds: Extraction, Characterization, and Antioxidant Capacity. Molecules 2021, 26, 177. [CrossRef]\
+81. Jiang, Y.; Lv, Y.; Wu, R.; Sui, Y.; Chen, C.; Xin, F.; Zhou, J.; Dong, W.; Jiang, M. Current status and perspectives on biobutanol\
+production using lignocellulosic feedstocks. Bioresour. Technol. Rep. 2019, 7, 100245. [CrossRef]\
+82. Abdollahdokht, D.; Gao, Y.; Faramarz, S.; Poustforoosh, A.; Abbasi, M.; Asadikaram, G.; Nematollahi, M.H. Conventional agrochemicals towards nano-biopesticides: An overview on recent advances. Chem. Biol. Technol. Agric. 2022, 9, 1\'9619. [CrossRef]\
+83. Ghasemi, K.; Tasnim, S.; Mahmud, S. PCM, nano/microencapsulation and slurries: A review of fundamentals, categories, fabrication, numerical models and applications. Sustain. Energy Technol. Assessments 2022, 52, 102084. [CrossRef]\
+84. Das, C.A.; Kumar, V.G.; Dhas, T.S.; Karthick, V.; Kumar, C.V. Nanomaterials in anticancer applications and their mechanism of action\'97A review. Nanomed. Nanotechnol. Biol. Med. 2022, 47, 102613. [CrossRef]\
+85. Hosseini, H.; Jafari, S.M. Introducing nano/microencapsulated bioactive ingredients for extending the shelf-life of food prod-ucts. Adv. Coll. Interface Sci. 2020, 282, 102210. [CrossRef]\
+86. Alehosseini, E.; Jafari, S.M. Micro/nano-encapsulated phase change materials (PCMs) as emerging materials for the food in-dustry. Trends Food Sci. Technol. 2019, 91, 116\'96128. [CrossRef]\
+\
+Bioengineering 2023, 10, 152 17 of 17\
+ 87. Chaudhari, A.K.; Singh, V.K.; Das, S.; Dubey, N.K. Nanoencapsulation of essential oils and their bioactive constituents: A novel strategy to control mycotoxin contamination in food system. Food Chem. Toxicol. 2021, 149, 112019. [CrossRef]\
+88. Comunian, T.; Babazadeh, A.; Rehman, A.; Shaddel, R.; Akbari-Alavijeh, S.; Boostani, S.; Jafari, S. Protection and controlled release of vitamin C by different micro/nanocarriers. Crit. Rev. Food Sci. Nutr. 2022, 62, 3301\'963322. [CrossRef]\
+89. Puttasiddaiah, R.; Lakshminarayana, R.; Somashekar, N.L.; Gupta, V.K.; Inbaraj, B.S.; Usmani, Z.; Raghavendra, V.B.; Sridhar, K.; Sharma, M. Advances in Nanofabrication Technology for Nutraceuticals: New Insights and Future Trends. Bioengineering 2022, 9, 478. [CrossRef]\
+90. Das, A.; Nazni, P. Formulation and quality evaluation of (Pennisetum glaucum incorporated) value-added paneer by Response Surface Methodology. Indian J. Dairy Sci. 2021, 74, 131\'96137. [CrossRef]\
+91. Federici, F.; Fava, F.; Kalogerakis, N.; Mantzavinos, D. Valorisation of agro-industrial by-products, effluents and waste: Concept, opportunities and the case of olive mill wastewaters. J. Chem. Technol. Biotechnol. 2009, 84, 895\'96900. [CrossRef]\
+92. Gontard, N.; Sonesson, U.; Birkved, M.; Majone, M.; Bolzonella, D.; Celli, A.; Angellier-Coussy, H.; Jang, G.W.; Verniquet, A.; Broeze, J.; et al. A research challenge vision regarding management of agricultural waste in a circular bio-based econo-my. Crit. Rev. Environ. Sci. Technol. 2018, 48, 614\'96654. [CrossRef]\
+93. Sharma, V.; Tsai, M.-L.; Nargotra, P.; Chen, C.-W.; Kuo, C.-H.; Sun, P.-P.; Dong, C.-D. Agro-Industrial Food Waste as a Low-Cost Substrate for Sustainable Production of Industrial Enzymes: A Critical Review. Catalysts 2022, 12, 1373. [CrossRef]\
+Disclaimer/Publisher\'92s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.}
